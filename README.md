@@ -1,4 +1,4 @@
-# FaceRecognition
+# FaceRecognition FISH
 
 This is an Android app that uses machine learning to provide real-time face recognition. It leverages the Mobile FaceNet model, a lightweight neural network for face recognition that is optimized for mobile devices. The app is built with ML Kit and TensorFlow Lite, which provide powerful tools for image recognition and machine learning on mobile devices. The app's user interface is created using Jetpack Compose, a modern UI toolkit that streamlines the development of native Android apps.
 
